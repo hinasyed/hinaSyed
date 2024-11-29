@@ -27,4 +27,4 @@ I am an aspiring data analytics professional with a strong foundation in IT and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/hinasyed"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/hinasyed&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/hinasyed's GitHub stats" /></a>
+<a href="http://www.github.com/hinasyed"><img src="https://github-readme-stats.vercel.app/api?username=hinasyed&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hinasyed's GitHub stats" /></a>
